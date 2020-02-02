@@ -16,6 +16,7 @@ Issues would be created and closed once they're resolved. If they are ever resol
 - [Hawkers on the streets](https://github.com/beth-ife/A-List-of-Nigerian-Problems/issues/4)
 - Collective Inaction by Nigerians (refer to [tweet](https://twitter.com/eldivyn/status/1223731328987934720) by InvestGod - [@eldivyn](https://twitter.com/eldivyn))
 
-### Rules and Regulations
-- This is a safe space, 
+### Repo Rules
+- This is a safe space, everybody's opinion would be respected. We would not address people with disrespect even if we don't agree with their opinion.
+
 ##### Note: It's currently a private repo because I thought it would make more sense for us to give the repo some flesh before actually going public with it. 

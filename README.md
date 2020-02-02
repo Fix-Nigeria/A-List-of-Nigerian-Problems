@@ -10,5 +10,8 @@ Issues would be created and closed once they're resolved. If they are ever resol
 - The Police
 - The Army
 - The State of Public Schools
+- Unemployment
+- Education Sector
+- Kids Hawking and/or Begging
 
 ##### Note: It's currently a private repo because I thought it would make more sense for us to give the repo some flesh before actually going public with it. 

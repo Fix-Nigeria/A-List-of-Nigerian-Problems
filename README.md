@@ -18,5 +18,6 @@ Issues would be created and closed once they're resolved. If they are ever resol
 
 ### Repo Rules
 - This is a safe space, everybody's opinion would be respected. We would not address people with disrespect even if we don't agree with their opinion.
+- Find a full list of rules and regulations [here](https://github.com/beth-ife/A-List-of-Nigerian-Problems/blob/master/forumRulesAndRegulations.md).
 
 ##### Note: It's currently a private repo because I thought it would make more sense for us to give the repo some flesh before actually going public with it. 
